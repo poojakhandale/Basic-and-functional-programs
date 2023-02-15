@@ -12,7 +12,8 @@ class Program
         // Flipcoin.TossPercentage();
         //HarmonicNumber.PrintHarmonics();
         //SwapNum.SwapNumbers();
-        LargestNumber.FindLargest();
+        //LargestNumber.FindLargest();
+        FindFactors.Factors();
     }
      
 
