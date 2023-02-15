@@ -8,7 +8,8 @@ class Program
         //Console.WriteLine("Basic Core Programs");
         //EvenOdd.EvenOrOdd();
         // FindQuiorReminder.FindQnR();
-        LeapYear.IsLeapYear();
+        // LeapYear.IsLeapYear();
+        Flipcoin.TossPercentage();
     }
      
 
