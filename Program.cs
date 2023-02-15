@@ -7,7 +7,8 @@ class Program
     {
         //Console.WriteLine("Basic Core Programs");
         //EvenOdd.EvenOrOdd();
-        FindQuiorReminder.FindQnR();
+        // FindQuiorReminder.FindQnR();
+        LeapYear.IsLeapYear();
     }
      
 
