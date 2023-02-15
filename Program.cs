@@ -9,7 +9,8 @@ class Program
         //EvenOdd.EvenOrOdd();
         // FindQuiorReminder.FindQnR();
         // LeapYear.IsLeapYear();
-        Flipcoin.TossPercentage();
+       // Flipcoin.TossPercentage();
+       HarmonicNumber.PrintHarmonics();
     }
      
 
