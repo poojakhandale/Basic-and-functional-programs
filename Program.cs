@@ -6,7 +6,8 @@ class Program
   public static void Main(string[] args)
     {
         //Console.WriteLine("Basic Core Programs");
-        EvenOdd.EvenOrOdd();
+        //EvenOdd.EvenOrOdd();
+        FindQuiorReminder.FindQnR();
     }
      
 
